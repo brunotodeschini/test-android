@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="event_description">Descrição do evento</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vestibulum eros eu iaculis gravida. Curabitur egestas quam lacus, ut porta arcu tempor eget. Donec in neque pharetra, vestibulum nunc ut, euismod augue. Praesent ultrices, sem nec laoreet posuere, purus mauris tincidunt turpis, at luctus leo nisi in eros. Aliquam rhoncus nunc sed risus rutrum sodales. Sed orci mi, tempor sit amet ullamcorper ut, iaculis ut sapien. Vivamus vitae magna non turpis facilisis fringilla. Vestibulum a sapien posuere, lacinia erat id, placerat lectus.</string>
+    <string name="events_poa">Eventos POA</string>
+    <string name="details">Detalhes</string>
+    <string name="close_events">Eventos próximos a você</string>
+    <string name="error_title">Ocorreu um erro tentando buscar eventos, tente mais tarde.</string>
+    <string name="checkin_instructions">Para prosseguir com o check-in, favor preencher os seguintes campos.</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="check_in">Check-in</string>
+    <string name="error_checkin">Ocorreu um erro ao realizar o check-in</string>
+    <string name="success_check_in">Check-in realizado com sucesso.</string>
+</resources>
