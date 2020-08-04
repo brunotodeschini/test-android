@@ -21,3 +21,4 @@ A[View] -- Evento --> B[ViewModel]
 B[ViewModel] --Data --> A[View]
 B[ViewModel] -- Data --> C[Model]
 C[Model] -- Data --> B[ViewModel]
+```
